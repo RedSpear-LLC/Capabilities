@@ -2,6 +2,10 @@
 **CAGE CODE:** 9P6E5  
 **UEI:** E8G4H7W8JR51
 
+<a href="https://redspear-llc.github.io/Capabilities/Capabilities/RSD_Capability_Statement.pdf" download>
+  Click here to download a PDF copy of the RedSpear Defense Capability Statement
+</a>
+
 ---
 
 # CAPABILITIES
